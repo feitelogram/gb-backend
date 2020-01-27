@@ -45,3 +45,7 @@ gem "jwt", "~> 2.2"
 gem "dotenv-rails", "~> 2.7"
 
 gem "ibm_watson", "~> 1.1"
+
+gem "rails_12factor", "~> 0.0.3"
+
+gem "foreman", "~> 0.87.0"
