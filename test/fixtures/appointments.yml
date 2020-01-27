@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  saved: one
+  date: 2020-01-13 22:58:53
+
+two:
+  saved: two
+  date: 2020-01-13 22:58:53
